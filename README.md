@@ -204,7 +204,7 @@ All exceptions should be mapped in an error payload. Here is an example how a JS
     "userMessage": "Sorry, the requested resource does not exist",
     "internalMessage": "No car found in the database",
     "code": 34,
-    "more info": "http://dev.mwaysolutions.com/blog/api/v1/errors/12345"
+    "more info": "http://sample/api/v1/errors/12345"
    }
   ]
 } 
